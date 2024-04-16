@@ -8,10 +8,10 @@ camKeras_pyqt.py는 camKeras.py의 기능을 기반으로 하되, PyQt를 사용
 3. keras_model.h5
 keras_model.h5 파일은 훈련된 Keras 모델을 포함하고 있습니다. 이 모델은 camKeras.py 및 camKeras_pyqt.py에서 로드되어 실시간 객체 인식에 사용됩니다. 모델은 다음 객체들을 인식할 수 있도록 훈련되었습니다
 
-0 사람
-1 마우스
-2 스마트폰
-3 키보드
+-0 사람
+-1 마우스
+-2 스마트폰
+-3 키보드
 
 4. labels.txt
 labels.txt 파일은 모델이 인식할 수 있는 객체의 카테고리를 정의합니다. 각 라인에는 하나의 객체 카테고리가 지정되어 있으며, 모델의 예측 결과와 연동되어 사용됩니다:
