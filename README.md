@@ -21,6 +21,7 @@
 ### 1. 가상환경 생성
     conda create -n camKeras python=3.9
 - VScode 터미널 또는 cmd에서 해당 명령어 입력
+- 해당 가상환경을 생성하기 위해서는 사전에 ANACONDA라는 프로그램을 Install 필요
 
 ### 2. 가상환경과 VSCode를 연결
 - CTRL+SHIFT+P -> Select Python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCode를 종료 후 재시작)
