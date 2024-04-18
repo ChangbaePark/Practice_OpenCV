@@ -1,5 +1,5 @@
 # Practice_OpenCV
-## Language<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+## Language <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 ## 1. camKeras.py
 - camKeras.py 파일은 Keras를 사용하여 웹캠으로부터 영상을 받아 실시간으로 객체를 인식하는 파이썬 스크립트입니다. 이 스크립트는 모델을 로드하고, 웹캠에서 영상을 입력받아, 실시간으로 객체를 인식하고 결과를 화면에 표시합니다.
