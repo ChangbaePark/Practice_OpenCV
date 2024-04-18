@@ -20,15 +20,17 @@
 ## 프로그램 사용 방법
 ### 1. 가상환경 생성
     conda create -n camKeras python=3.9
+- VScode 터미널 또는 cmd에서 해당 명령어 입력
 
 ### 2. 가상환경과 VSCode를 연결
-    CTRL+SHIFT+P -> Select Python interpreter 
-(새로 만든 가상환경 이름이 보이지 않으면 VSCode를 종료 후 재시작)
+- CTRL+SHIFT+P -> Select Python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCode를 종료 후 재시작)
 
 ### 3. 새 터미널 확인 
+- 가상환경이 적용되었는지 확인
 
 ### 4. Package 설치
      pip install -r requirementx.txt 
-사용하여 패키지 설치
+- 해당 명령어를 사용하여 패키지 설치
 
 ### 5. camKeras_pyqt.py 파일 실행
+- VSCode로 camKeras_pyqt.py 오픈후 실행
