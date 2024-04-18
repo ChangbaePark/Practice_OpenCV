@@ -30,7 +30,7 @@
 - 가상환경이 적용되었는지 확인
 
 ### 4. Package 설치
-     pip install -r requirementx.txt 
+     pip install -r requirements.txt 
 - 해당 명령어를 사용하여 패키지 설치
 
 ### 5. camKeras_pyqt.py 파일 실행
