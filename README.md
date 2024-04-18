@@ -16,3 +16,17 @@
 - labels.txt 파일은 모델이 인식할 수 있는 객체의 카테고리를 정의합니다. 각 라인에는 하나의 객체 카테고리가 지정되어 있으며, 모델의 예측 결과와 연동되어 사용됩니다
 
 - 0: 사람 1: 마우스 2: 스마트폰 3: 키보드
+
+## 프로그램 사용 방법
+### 1. 가상환경 생성
+- conda create -n camKeras python=3.9
+
+### 2. 가상환경과 VSCode를 연결
+- CTRL+SHIFT+P -> Select Python interpreter (새로 만든 가상환경 이름이 보이지 않으면 VSCode를 종료 후 재시작)
+
+### 3. 새 터미널 확인 
+
+### 4. Package 설치
+- pip install -r requirementx.txt 를 사용하여 패키지 설치
+
+### 5. camKeras_pyqt.py 파일 실행
