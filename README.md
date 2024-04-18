@@ -28,6 +28,7 @@
 ### 3. 새 터미널 확인 
 
 ### 4. Package 설치
-   pip install -r requirementx.txt 를 사용하여 패키지 설치
+     pip install -r requirementx.txt 
+사용하여 패키지 설치
 
 ### 5. camKeras_pyqt.py 파일 실행
